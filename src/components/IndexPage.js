@@ -14,9 +14,3 @@ export default class IndexPage extends React.Component {
 	}
 }
 
-/*
-
-Basically we are iterating over all the available athletes 
-from our data module and creating an AthletePreview component for each of them.
-
-*/

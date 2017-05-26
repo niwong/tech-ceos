@@ -30,6 +30,11 @@ header .logo {
   width: 100%;
 }
 
+.headerText {
+  text-align: center;
+  font-size: 48px;
+}
+
 footer {
   margin: 4em auto;
   padding: 2em;
